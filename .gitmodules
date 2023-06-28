@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bioacoustics"]
 	path = bioacoustics
 	url = https://github.com/wavx/bioacoustics
-	shallow = true
-	registered = true
